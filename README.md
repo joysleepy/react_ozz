@@ -1,1 +1,1 @@
-# react_ozz
+# Curso React con Ozz
